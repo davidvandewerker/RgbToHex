@@ -9,7 +9,7 @@ RgbToHex.py [-h] red green blue
 ```
 
 Example:
-*Convert the rgb value rgb(125, 226, 99) to hexadecimal format.*
+*convert rgb value rgb(12, 56, 99) to hex format.*
 ```PowerShell
 PS> RgbToHex.py 12 56 99
 
